@@ -1,0 +1,15 @@
+.selected-info{
+    margin: 10px;
+    border: 1px solid #fff;
+    padding: 6px;
+    border-radius: 5px;
+}
+.selected-info img{
+    width: 130px;
+    height: 130px;
+}
+.selected-info p{
+    font-size: 14px;
+    padding-top: 0;
+    line-height: 16px;
+}

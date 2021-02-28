@@ -1,0 +1,30 @@
+.players-info img {
+    width: 200px;
+    height: 200px;
+    padding: 10px 35px;
+}
+.players-info {
+    margin: 25px;
+    border: 2px solid #fff;
+    box-shadow: 3px 3px 30px rgb(128 128 128 / 30%);
+    width: 20%;
+    border-radius: 6px;
+}
+.info-txt{
+    padding: 15px;
+    padding-top: 0;
+}
+.info-txt h3, p{
+    margin: 0 auto;
+    line-height: 26px;
+}
+.info-txt button {
+    padding: 6px 15px;
+    margin-left: 60px;
+    margin-top: 14px;
+    background-color: green;
+    color: white;
+    font-size:15px;
+    font-weight: 500;
+    border-radius: 6px;
+}

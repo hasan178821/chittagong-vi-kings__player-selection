@@ -1,0 +1,160 @@
+[{
+    "id": 1,
+    "name": "Tamim Iqbal",
+    "previousTeam": "Chittagon VI Kings",
+    "country": "Bangladesh",
+    "playerType": "Batsman",
+    "salary": 45000,
+    "image": "https://ss.thgim.com/cricket/article27263543.ece/alternates/FREE_380/tamim-iqbaljpg"
+  }, {
+    "id": 2,
+    "name": "Shakib Al Hasan",
+    "previousTeam": "Dhaka Platon",
+    "country": "Bangladesh",
+    "playerType": "All Rounder",
+    "salary": 48000,
+    "image": "https://c.ndtvimg.com/2019-10/kbn7tvqg_shakib-al-hasan_625x300_21_October_19.jpg"
+  }, {
+    "id": 3,
+    "name": "Mashrafe Mortaza",
+    "previousTeam": "Khulna Tigers",
+    "country": "Bangladesh",
+    "playerType": "All Rounder",
+    "salary": 50000,
+    "image": "https://sportstar.thehindu.com/cricket/article27263506.ece/BINARY/mashrafe-mortazajpg"
+  }, {
+    "id": 4,
+    "name": "Nasir Hossain",
+    "previousTeam": "Rangpur Riders",
+    "country": "Bangladesh",
+    "playerType": "All Rounder",
+    "salary": 41000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdOxLt7yVZ8QXAyhM_1r5sjVsSZ8rcJarBw&usqp=CAU"
+  }, {
+    "id": 5,
+    "name": "Mehedi Hasan",
+    "previousTeam": "Cumilla Victorias",
+    "country": "Bangladesh",
+    "playerType": "Bowler",
+    "salary": 39000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNObVY74WzEZ8WT5U9Iw2Qy3VR90rTT0V2Q&usqp=CAU"
+  }, {
+    "id": 6,
+    "name": "Mahmudullah Riyad",
+    "previousTeam": "Rangpur Riders",
+    "country": "Bangladesh",
+    "playerType": "Batsman",
+    "salary": 46000,
+    "image": "https://ss.thgim.com/cricket/article27263938.ece/alternates/FREE_380/mahmudullahjpg"
+  }, {
+    "id": 7,
+    "name": "Taskin Ahmed",
+    "previousTeam": "Chittagong VI Kings",
+    "country": "Bangladesh",
+    "playerType": "Bowler",
+    "salary": 41000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIS38j4T8TxR9ZQPDjpqjlEBbAgWK1V3GLwQ&usqp=CAU"
+  }, {
+    "id": 8,
+    "name": "Rubel Hossen",
+    "previousTeam": "Rajshahi Royals",
+    "country": "Bangladesh",
+    "playerType": "Bowler",
+    "salary": 42000,
+    "image": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893494-e1520011263757.jpg"
+  }, {
+    "id": 9,
+    "name": "Nayem Hasan",
+    "previousTeam": "Rangpur Riders",
+    "country": "Bangladesh",
+    "playerType": "Bowler",
+    "salary": 31000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxME0RKUaSMAZztHFjcIqilTNRn3BpJblAg&usqp=CAU"
+  }, {
+    "id": 10,
+    "name": "Sabbir Rahman",
+    "previousTeam": "Dhaka Platon",
+    "country": "Bangladesh",
+    "playerType": "Batsman",
+    "salary": 39000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSh8uRDJj7_kgt33td8aMFxZoTai3JeQj-A&usqp=CAU"
+  }, {
+    "id": 11,
+    "name": "Shomya Sharkar",
+    "previousTeam": "Khulna Tigers",
+    "country": "Bangladesh",
+    "playerType": "Batsman",
+    "salary": 41000,
+    "image": "https://static.indiatvnews.com/ins-web/images/soumya-sarkar-1541504064.jpg"
+  }, {
+    "id": 12,
+    "name": "Mustafizur Rahman",
+    "previousTeam": "Sylhet Thunder",
+    "playerType": "Bowler",
+    "salary": 44000,
+    "image": "https://1.bp.blogspot.com/-mKo1NBfp3R0/Vvv_Zom7VwI/AAAAAAAADz8/4JDiYQ_6U_U1ujmnYfqngcccJvi1iIH8g/s400/mustafizur_rahman_7.jpg"
+  }, {
+    "id": 13,
+    "name": "Abdur Razzak",
+    "previousTeam": "Khulna Tigers",
+    "country": "Bangladesh",
+    "playerType": "uBoller",
+    "salary": 36000,
+    "image": "https://cric123.com/imagesall/MjgxNDEuNQ==.jpg"
+  }, {
+    "id": 14,
+    "name": "Mushfikur Rahim",
+    "previousTeam": "Rangpur Riders",
+    "country": "Bangladesh",
+    "playerType": "Batsman",
+    "salary": 47000,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg"
+  }, {
+    "id": 15,
+    "name": "Saif Hasan",
+    "previousTeam": "Sylhet Thunder",
+    "country": "Bangladesh",
+    "playerType": "Bowler",
+    "salary": 29000,
+    "image": "https://arysports.tv/wp-content/uploads/2020/09/Saif-Hasan.jpg"
+  }, {
+    "id": 16,
+    "name": "Mominur Hoque",
+    "previousTeam": "Rajshahi Royals",
+    "country": "Bangladesh",
+    "playerType": "Batsman",
+    "salary": 33000,
+    "image": "https://static.toiimg.com/thumb/imgsize-23670,msid-62781583,width-400,resizemode-4/62781583.jpg"
+  }, {
+    "id": 17,
+    "name": "Mohammed Ashraful",
+    "previousTeam": "Dhaka Platon",
+    "country": "Bangladesh",
+    "playerType": "Batsman",
+    "salary": 45000,
+    "image": "https://p.imgci.com/db/PICTURES/CMS/128600/128600.1.jpg"
+  }, {
+    "id": 18,
+    "name": "Liton Das",
+    "previousTeam": "Cumilla Victorias",
+    "country": "Bangladesh",
+    "playerType": "Batsman",
+    "salary": 46000,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170914/liton-das.jpg"
+  }, {
+    "id": 19,
+    "name": "ABD Villiers",
+    "previousTeam": "Rajshahi Royals",
+    "country": "South Africa",
+    "playerType": "Batsman",
+    "salary": 47000,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170999/ab-de-villiers.jpg"
+  }, {
+    "id": 20,
+    "name": "Brendon Maccullum",
+    "previousTeam": "Chittagong VI Kings",
+    "country": "New Zealand",
+    "playerType": "Batsman",
+    "salary": 45000,
+    "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c156149/brendon-mccullum.jpg"
+  }]
