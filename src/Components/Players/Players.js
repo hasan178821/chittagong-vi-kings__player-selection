@@ -10,11 +10,9 @@ const Players = (props) => {
     const {name, image, previousTeam, playerType, salary} = props.player;
     return (
         <div className="players-info">
-            <div>
                 <img src={image} alt=""/>
-            </div>
             <div className="info-txt">
-                <h5>Name: {name}</h5>
+                <h6 className="text-bolder">Name: {name}</h6>
                 <p><small>Previous Team: </small>{previousTeam}</p>
                 <p><small>Play Types: </small>{playerType}</p>
                 <p><small>Salary/session: </small>${salary}</p>

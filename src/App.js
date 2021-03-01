@@ -26,14 +26,15 @@ const totalSalary = selected.reduce( (total, player) => (total + player.salary) 
     <div className="App">
       <header className="App-header">
         {/* Added Bootstrap */}
-        <h1 className="text-center py-4 text-success">Team: Chittagong VI Kings</h1>
-        <h3 style={{textAlign: 'center', alignItems: 'flex-start', fontWeight: '400'}}>Selected Players: {selected.length} </h3>
+        <h4 className="text-center fst-italic pt-3"><span className="text-success">Bangladesh</span> <span className="text-danger">Premier</span> <span className="text-success">League</span> (BPL)</h4>
+        <h3 className="text-center py-2 text-success">Team: Chittagong VI Kings</h3>
+        <h4 style={{textAlign: 'center', alignItems: 'flex-start', fontWeight: '400', color: 'cyan'}}>Selected Players: {selected.length} </h4>
         <div className="selected-players">
           {
             selected.map(select => <Selected select={select} key={select.id}></Selected>)
           }
         </div>
-        <h2 style={{textAlign: 'center', fontWeight: '400', padding: '25px 0'}}>Total Players Salary: ${totalSalary}</h2>
+        <h3 style={{textAlign: 'center', fontWeight: '400', padding: '15px 0', color: 'cyan'}}>Total Players Salary: ${totalSalary}</h3>
       </header>
       <div className="all-players">
         {
