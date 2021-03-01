@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import Players from './Components/Players/Players';
-import Selected from './Components/Players/Selected/Selected';
+import Selected from './Components/Selected/Selected';
 import fakeData from './fakeData/data.json';
 
 function App() {
@@ -25,13 +25,15 @@ const totalSalary = selected.reduce( (total, player) => (total + player.salary) 
   return (
     <div className="App">
       <header className="App-header">
+        {/* Added Bootstrap */}
+        <h1 className="text-center py-4 text-success">Team: Chittagong VI Kings</h1>
         <h3 style={{textAlign: 'center', alignItems: 'flex-start', fontWeight: '400'}}>Selected Players: {selected.length} </h3>
         <div className="selected-players">
           {
             selected.map(select => <Selected select={select} key={select.id}></Selected>)
           }
         </div>
-        <h2 style={{textAlign: 'center', fontWeight: '400'}}>Total Players Salary: ${totalSalary}</h2>
+        <h2 style={{textAlign: 'center', fontWeight: '400', padding: '25px 0'}}>Total Players Salary: ${totalSalary}</h2>
       </header>
       <div className="all-players">
         {

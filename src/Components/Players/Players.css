@@ -1,5 +1,5 @@
 .players-info img {
-    width: 200px;
+    width: 250px;
     height: 200px;
     padding: 10px 35px;
 }
@@ -20,7 +20,7 @@
 }
 .info-txt button {
     padding: 6px 15px;
-    margin-left: 60px;
+    margin-left: 50px;
     margin-top: 14px;
     background-color: green;
     color: white;
